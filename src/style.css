@@ -1,0 +1,136 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("./fonts/icomoon.eot?d2gura");
+  src: url("./fonts/icomoon.eot?d2gura#iefix") format("embedded-opentype"),
+    url("./fonts/icomoon.ttf?d2gura") format("truetype"),
+    url("./fonts/icomoon.woff?d2gura") format("woff"),
+    url("./fonts/icomoon.svg?d2gura#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow:before {
+  content: "\e900";
+}
+.icon-arrowLeft:before {
+  content: "\e901";
+}
+.icon-cart:before {
+  content: "\e902";
+}
+.icon-checkList:before {
+  content: "\e903";
+}
+.icon-closeIcon:before {
+  content: "\e904";
+}
+.icon-cvcIcon:before {
+  content: "\e905";
+}
+.icon-discover .path1:before {
+  content: "\e906";
+  color: rgb(254, 254, 254);
+}
+.icon-discover .path2:before {
+  content: "\e907";
+  margin-left: -1.5625em;
+  color: rgb(242, 119, 18);
+}
+.icon-discover .path3:before {
+  content: "\e908";
+  margin-left: -1.5625em;
+  color: rgb(51, 41, 39);
+}
+.icon-discover .path4:before {
+  content: "\e909";
+  margin-left: -1.5625em;
+  color: rgb(242, 119, 18);
+}
+.icon-express .path1:before {
+  content: "\e90a";
+  color: rgb(1, 111, 208);
+}
+.icon-express .path2:before {
+  content: "\e90b";
+  margin-left: -1.5625em;
+  color: rgb(254, 254, 254);
+}
+.icon-express .path3:before {
+  content: "\e90c";
+  margin-left: -1.5625em;
+  color: rgb(1, 111, 208);
+}
+.icon-express .path4:before {
+  content: "\e90d";
+  margin-left: -1.5625em;
+  color: rgb(1, 111, 208);
+}
+.icon-express .path5:before {
+  content: "\e90e";
+  margin-left: -1.5625em;
+  color: rgb(254, 254, 254);
+}
+.icon-express .path6:before {
+  content: "\e90f";
+  margin-left: -1.5625em;
+  color: rgb(1, 111, 208);
+}
+.icon-express .path7:before {
+  content: "\e910";
+  margin-left: -1.5625em;
+  color: rgb(1, 111, 208);
+}
+.icon-locationIcon:before {
+  content: "\e911";
+}
+.icon-mastercard .path1:before {
+  content: "\e912";
+  color: rgb(51, 41, 39);
+}
+.icon-mastercard .path2:before {
+  content: "\e913";
+  margin-left: -1.5625em;
+  color: rgb(235, 0, 27);
+}
+.icon-mastercard .path3:before {
+  content: "\e914";
+  margin-left: -1.5625em;
+  color: rgb(247, 158, 27);
+}
+.icon-mastercard .path4:before {
+  content: "\e915";
+  margin-left: -1.5625em;
+  color: rgb(255, 95, 0);
+}
+.icon-minus:before {
+  content: "\e916";
+}
+.icon-plus:before {
+  content: "\e917";
+}
+.icon-visa .path1:before {
+  content: "\e918";
+  color: rgb(254, 254, 254);
+}
+.icon-visa .path2:before {
+  content: "\e919";
+  margin-left: -1.5625em;
+  color: rgb(51, 41, 39);
+}
